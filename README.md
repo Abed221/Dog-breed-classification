@@ -24,10 +24,10 @@ The three hyperparamters that I tuned over my training job were:
 - lr
 
 Here you can see a screenshot including all of the training jobs:
-![Training Running](https://github.com/Abed221/Dog-breed-classification/raw/main/screenshots/training-jobs.png)
+![Training Running](https://raw.githubusercontent.com/Abed221/Dog-breed-classification/main/screenshots/training-jobs.PNG)
 
 And this a screenshot of hyperparameter tuning jobs that were done in this project:
-![hpo Running](https://github.com/Abed221/Dog-breed-classification/raw/main/screenshots/hpt-jobs.png)
+![hpo Running](https://raw.githubusercontent.com/Abed221/Dog-breed-classification/main/screenshots/hpt-jobs.PNG)
 
 The best model we obtain was built using these hyperparameters:
 
@@ -82,6 +82,6 @@ response = predictor.predict(buffer.getvalue())
 ```
 
 And as we can in this screenshot, the endpoint is deployed and in service:
-![Endpoint Running](https://github.com/Abed221/Dog-breed-classification/raw/main/screenshots/Endpoint.PNG)
+![Endpoint Running](https://raw.githubusercontent.com/Abed221/Dog-breed-classification/main/screenshots/Endpoint.PNG)
 
 
