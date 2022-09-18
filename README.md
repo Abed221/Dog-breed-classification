@@ -27,7 +27,7 @@ Here you can see a screenshot including all of the training jobs:
 ![Training Running](./screenshots/training-jobs.png)
 
 And this a screenshot of hyperparameter tuning jobs that were done in this project:
-![hpo Running](./screenshots/hyperparameter_tuning.png)
+![hpo Running](./screenshots/hpt-jobs.png)
 
 The best model we obtain was built using these hyperparameters:
 
